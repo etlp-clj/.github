@@ -10,7 +10,8 @@ ETLP is a powerful Clojure library that simplifies the implementation of paralle
 
 
 ## Quick Start
-Check out the following guide for [getting started](https://github.com/etlp-clj/etlp/tree/develop#readme) with etlp
+Check out the following guide to get an overview of developing a connector [with etlp](https://github.com/etlp-clj/etlp/tree/develop#readme)
+
 <!--
 
 **Here are some ideas to get you started:**
