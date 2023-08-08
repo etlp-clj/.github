@@ -6,7 +6,7 @@ ETLP is a powerful Clojure library that simplifies the implementation of paralle
 - Built on the concept of transducers and CSP pattern.
 - Simplifies the implementation of parallel concurrency.
 - Allows decoupling of data mapping logic (business logic) from code using etlp-mapper.
-- Supports a wide range of source and destination processors.
+- Supports the ability to develop wide range of source and destination processors.
 
 
 ## Quick Start
