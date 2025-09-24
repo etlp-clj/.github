@@ -17,6 +17,10 @@ High throughput ETL with very low footprint, achieved using transducers + core.a
 
 ![alt ETLP Benchmark](https://github.com/etlp-clj/.github/blob/main/profile/etlp_performance_infographic.png)
 
+
+### Processor Architecture 
+
+![alt ETLP Processor](https://github.com/etlp-clj/.github/blob/main/profile/BENCHMARK_ARCH_LOCAL%20_%20Mermaid%20Chart-2025-09-24-010307.png)
 <!--
 
 **Here are some ideas to get you started:**
