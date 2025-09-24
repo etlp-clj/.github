@@ -12,6 +12,11 @@ ETLP is a powerful Clojure library that simplifies the implementation of paralle
 ## Quick Start
 Check out the following guide to get an overview of developing a connector [with etlp](https://github.com/etlp-clj/etlp-base/blob/main/README.md)
 
+## Performance Benchmark 
+High throughput ETL with very low footprint, achieved using transducers + core.async concurrency rather than thread-heavy models.
+
+![alt ETLP Benchmark](https://github.com/etlp-clj/.github/blob/main/profile/etlp_performance_infographic.png)
+
 <!--
 
 **Here are some ideas to get you started:**
